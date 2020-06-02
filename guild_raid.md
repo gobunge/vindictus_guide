@@ -1,6 +1,6 @@
 # 마비노기 영웅전 갤러리 길드 결사대 시간표
 
-| &nbsp;&nbsp;길드명&nbsp;&nbsp; | &nbsp;&nbsp;월요일&nbsp;&nbsp;  | 화요일  | 수요일  | 목요일  | 금요일  | 토요일  | 일요일  |
+| &nbsp;&nbsp;길드명&nbsp;&nbsp; | &nbsp;&nbsp;월요일&nbsp;&nbsp; | &nbsp;&nbsp;화요일&nbsp;&nbsp; | &nbsp;&nbsp;수요일&nbsp;&nbsp; | &nbsp;&nbsp;목요일&nbsp;&nbsp; | &nbsp;&nbsp;금요일&nbsp;&nbsp; | &nbsp;&nbsp;토요일&nbsp;&nbsp; | &nbsp;&nbsp;일요일&nbsp;&nbsp;  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 노블 | 발로르4회 | 네반 4회 |   |   |   | 브리지트 4회  |   |
 | 길사대 | 브리&로르<br>2회 |   | 네반 2회 |   |   | 브리&로르<br>2회  |  |
