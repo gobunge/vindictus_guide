@@ -2,7 +2,7 @@
 
 | &nbsp;&nbsp;길드명&nbsp;&nbsp; | &nbsp;&nbsp;월요일&nbsp;&nbsp; | &nbsp;&nbsp;화요일&nbsp;&nbsp; | &nbsp;&nbsp;수요일&nbsp;&nbsp; | &nbsp;&nbsp;목요일&nbsp;&nbsp; | &nbsp;&nbsp;금요일&nbsp;&nbsp; | &nbsp;&nbsp;토요일&nbsp;&nbsp; | &nbsp;&nbsp;일요일&nbsp;&nbsp;  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 노블 | 발로르<br>4회 | 네반 4회 |   |   |   | 브리지트<br>4회  |   |
+| 노블 | 발로르<br>4회  | 네반 4회 |   |   |   | 브리지트<br>4회  |   |
 | 길사대 | 브리&로르<br>2회  |   | 네반 2회 |   |   | 브리&로르<br>2회  |  |
 | 날먹충 |   |   |   |   |   | 발로르 4회 | 브리지트 4회 |
 | 삐약새 | 브리지트<br>2회  |   | 브리지트 2회  |   | 발로르 4회 | 브리지트 4회  |   |
