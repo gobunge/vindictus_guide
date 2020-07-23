@@ -1,4 +1,4 @@
-# 마비노기 영웅전 갤러리 길드 결사대 시간표
+# 마비노기 영웅전 갤러리 길드 결사대 일정표
 
 | &nbsp;&nbsp;길드명&nbsp;&nbsp; | &nbsp;&nbsp;월요일&nbsp;&nbsp; | &nbsp;&nbsp;화요일&nbsp;&nbsp; | &nbsp;&nbsp;수요일&nbsp;&nbsp; | &nbsp;&nbsp;목요일&nbsp;&nbsp; | &nbsp;&nbsp;금요일&nbsp;&nbsp; | &nbsp;&nbsp;토요일&nbsp;&nbsp; | &nbsp;&nbsp;일요일&nbsp;&nbsp;  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
